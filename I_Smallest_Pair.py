@@ -7,5 +7,5 @@ for o in range(n):
         for j in range(i+1,h):
             k=f[i]+f[j]+j-i
             t+=[k]
-t.sort()
-print(t[0])
+    t.sort()
+    print(t[0])
